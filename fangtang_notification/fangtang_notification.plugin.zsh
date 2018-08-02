@@ -7,5 +7,5 @@ function_name fangtang() {
   TIME_DIFF=$(( $CURR_TIME - $PREV_TIME ))
   DESP="desp=""$@"
   TEXT="text=一共跑了""$TIME_DIFF""秒"
-  curl  -G -vs /dev/null  "https://sc.ftqq.com/""$SCKEY"".send" --data-urlencode $DESP --data-urlencode $TEXT
+  curl  -G -s /dev/null  "https://sc.ftqq.com/""$SCKEY"".send" --data-urlencode $DESP --data-urlencode $TEXT
 }
