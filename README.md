@@ -11,4 +11,4 @@ My custom oh-my-zsh plugins
 
 0. of course you need to install `zsh` and `oh-my-zsh` first
 1. run `install.sh`
-2. put the plugins you want to use into `plugins=(xxxx)`
+2. open `.zshrc`, put the plugins you want to use into `plugins=(xxxx)`
