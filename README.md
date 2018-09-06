@@ -6,6 +6,7 @@ My custom oh-my-zsh plugins
 
 - [upload_file](upload_file) upload your file to pulic image host and text host
 - [fangtang_notification](fangtang_notification) send notification after running your script
+- [my_public_ip](my_public_ip) get public ip
 
 ## How to use
 
