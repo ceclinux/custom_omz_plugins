@@ -1,4 +1,4 @@
-UPLOAD_IMAGE_HOST="https://img.vim-cn.com/"
+UPLOAD_IMAGE_HOST="https://img.ceclinux.org/"
 UPLOAD_TEXT_HOST="https://cfp.vim-cn.com/"
 
 function_name upload_image() {
