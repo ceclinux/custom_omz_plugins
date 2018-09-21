@@ -8,7 +8,7 @@ No Need. You can set up your own server based on github repo mentioned above. An
 
 ```
 upload_text cat ~/.zshrc
-# https://cfp.vim-cn.com/kkkkk
+https://cfp.vim-cn.com/kkkkk
 
 # fetch the file you upload, you can specify filename you want to save, xxx
 fetch_text kkkkk
@@ -20,3 +20,4 @@ https://img.vim-cn.com/qqqqq
 # fetch the file you upload, you can specify filename you want to save, xxxxxx
 fetch_text qqqqq
 fetch_text qqqqq xxxxxx
+```
